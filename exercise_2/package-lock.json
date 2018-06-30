@@ -1,0 +1,37 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "rxjs": {
+      "version": "6.2.0",
+      "resolved": "https://registry.npmjs.org/rxjs/-/rxjs-6.2.0.tgz",
+      "integrity": "sha512-qBzf5uu6eOKiCZuAE0SgZ0/Qp+l54oeVxFfC2t+mJ2SFI6IB8gmMdJHs5DUMu5kqifqcCtsKS2XHjhZu6RKvAw==",
+      "requires": {
+        "tslib": "^1.9.0"
+      }
+    },
+    "rxjs-compat": {
+      "version": "6.2.0",
+      "resolved": "https://registry.npmjs.org/rxjs-compat/-/rxjs-compat-6.2.0.tgz",
+      "integrity": "sha512-kFX7NSIgyzqn3+J5F/w75R72wDOICXwArbXyPU1neE4laOEwxkMTm+2oAZXN82yb+yli+j+c5USgbGLfphTCTA=="
+    },
+    "rxjs-es": {
+      "version": "5.0.0-beta.12",
+      "resolved": "https://registry.npmjs.org/rxjs-es/-/rxjs-es-5.0.0-beta.12.tgz",
+      "integrity": "sha1-zxYbFz9Qhv7sETuCxNlRh7LxHEM=",
+      "requires": {
+        "symbol-observable": "^1.0.1"
+      }
+    },
+    "symbol-observable": {
+      "version": "1.2.0",
+      "resolved": "https://registry.npmjs.org/symbol-observable/-/symbol-observable-1.2.0.tgz",
+      "integrity": "sha512-e900nM8RRtGhlV36KGEU9k65K3mPb1WV70OdjfxlG2EAuM1noi/E/BaW/uMhL7bPEssK8QV57vN3esixjUvcXQ=="
+    },
+    "tslib": {
+      "version": "1.9.3",
+      "resolved": "https://registry.npmjs.org/tslib/-/tslib-1.9.3.tgz",
+      "integrity": "sha512-4krF8scpejhaOgqzBEcGM7yDIEfi0/8+8zDRZhNZZ2kjmHJ4hv3zCbQWxoJGz1iw5U0Jl0nma13xzHXcncMavQ=="
+    }
+  }
+}
